@@ -1,0 +1,7 @@
+ik heb geleerd:
+met github te werken
+pushen en pullen met git
+branchen en mergen met git
+een webserver opzetten met lamp op linux
+wat ik nog wil leren:
+uhh iets beter github ofzo
