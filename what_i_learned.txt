@@ -1,1 +1,1 @@
-henk
+in de afgelopen 3 workshops heb ik geleerd wat de error codes van web zijn en betekenen, hoe git werkt en hoe je een ubuntu webserver moet opstellen. Ook zou ik nog beter willen worden in git, aangezien ik sommige dingen nog lastig vindt.
