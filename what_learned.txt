@@ -3,5 +3,9 @@ met github te werken
 pushen en pullen met git
 branchen en mergen met git
 een webserver opzetten met lamp op linux
+<<<<<<< Updated upstream
 wat ik nog wil leren:
 uhh iets beter github ofzo
+=======
+wat ik nog wil leren
+>>>>>>> Stashed changes
